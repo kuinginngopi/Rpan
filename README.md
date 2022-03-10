@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://kuinginngopi.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines="Bot+Powered+By+Revan+⚡"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=   Bot+Powered+By+Revan+⚡"
             alt="kuinginngopi"
         />
     </a>
