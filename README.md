@@ -27,8 +27,6 @@
 <p align="center">
   <a href="https://github.com/kuinginngopi/Rpan#instalasi">Installation</a> •
   <a href="https://github.com/kuinginngopi/Rpan#thanks-to">Thanks to</a> •
-  <a href="https://github.com/kuinginngopi/Rpan#donate">Donate</a></br>
-  <a href="https://github.com/kuinginngopi/Rpan#Official-Group"> Official Group Bot</a> •
   <a href="https://github.com/kuinginngopi/Rpan#settings">Settings</a>
 
 </p>
