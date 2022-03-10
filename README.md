@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./userbot/resources/extras/rpan.gif" width="35px">rpan PROJECTS<img src="./userbot/resources/extras/rpan.gif" width="35px"></h1>
+<h1 align="center"><img src="./settings/rpan.gif" width="35px">RPAN PROJECTS<img src="./settings/rpan.gif" width="35px"></h1>
 
 <p align="center">
     <a href="https://kuinginngopi.github.io">
